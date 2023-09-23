@@ -142,4 +142,7 @@ strategy.exit("Trailing Stop", "Long", stop = trailingStopPrice, when = conditio
 
 
 
+
+
+
     
