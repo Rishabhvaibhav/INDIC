@@ -141,6 +141,9 @@ strategy.cancel_all(condition)
 strategy.exit("Trailing Stop", "Long", stop = trailingStopPrice, when = condition)
 
 
+// ## Place a new exit order
+
+
 
 
 
